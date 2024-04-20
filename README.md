@@ -1,4 +1,4 @@
-# insideman
+# Insideman v2
 InsideMan is a tool enabling different type of  uptime-kuma monitoring behind firewalls, offering capabilities within otherwise restricted network environments
 
 InsideMan is a versatile and advanced software tool designed to facilitate various types of uptime-kuma monitoring behind firewalls, providing comprehensive capabilities within networks that are otherwise restricted or inaccessible. 
@@ -41,3 +41,5 @@ This Value is needed for TCP CHECK (Checks if a port is open)
 This Value is for when to start the check in sec’s ( Check will run every 30 sec)
 "EXEAPP" : "C:\test\test.exe"
 This is used for (Checks if an EXE is Running) & Check if a Service is Running
+
+BETA Installer here https://github.com/jumpinnovation-io/insideman/releases/download/BETA/InstallService_Install_Store_InsideMAN_v2.exe
