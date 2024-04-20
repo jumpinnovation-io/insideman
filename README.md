@@ -1,4 +1,7 @@
 # Insideman v2
+
+Temp website: https://insideman.sitesgpt.com/
+
 InsideMan is a tool enabling different type of  uptime-kuma monitoring behind firewalls, offering capabilities within otherwise restricted network environments
 
 InsideMan is a versatile and advanced software tool designed to facilitate various types of uptime-kuma monitoring behind firewalls, providing comprehensive capabilities within networks that are otherwise restricted or inaccessible. 
