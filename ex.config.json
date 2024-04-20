@@ -1,0 +1,50 @@
+{
+	"BASEURL": "https://uptime.keystonesolutions.cloud/api/push/",
+	"APIKEY": "7C67AD9F2D6D69EC485625845",
+	"ServiceWaitSec": "15",
+	"Check1": {
+		"Enable": "False",
+		"UPTIMETOKEN": "aXyItsW1fS?status=up&msg=OK&ping=",
+		"TYPE": "1",
+		"HOST": "23.133.176.1",
+		"PORT": "",
+		"CHECKSEC": "30",
+		"EXEAPP" : ""
+	},
+	"Check2": {
+		"Enable": "True",
+		"UPTIMETOKEN": "m787675854-085620c5381b107f1bbd8befec1ed5d84f8109f2",
+		"TYPE": "3",
+		"HOST": "https://keystonesolutions.io",
+		"PORT": "3389",
+		"CHECKSEC": "15",
+		"EXEAPP" : ""
+	},
+	"Check3": {
+		"Enable": "False",
+		"UPTIMETOKEN": "m787681108-159f57fc230e5dc714da0ae21ad0406db190985a",
+		"TYPE": "2",
+		"HOST": "23.133.176.23",
+		"PORT": "3389",
+		"CHECKSEC": "15",
+		"EXEAPP" : ""
+	},
+	"Check4": {
+		"Enable": "False",
+		"UPTIMETOKEN": "m787607448-d63da760299cd6625a79324068a45bc5efc849c1",
+		"TYPE": "4",
+		"HOST": "https://keystonesolutions.io",
+		"PORT": "3389",
+		"CHECKSEC": "15",
+		"EXEAPP" : ""
+	},
+	"Check5": {
+		"Enable": "False",
+		"UPTIMETOKEN": "m787607448-d63da760299cd6625a79324068a45bc5efc849c1",
+		"TYPE": "5",
+		"HOST": "23.133.176.23",
+		"PORT": "3389",
+		"CHECKSEC": "45",
+		"EXEAPP" : "c:\test\test.exe"
+	}
+}
